@@ -1,0 +1,28 @@
+body{
+    width: 100%;
+    min-height: 100vh;
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fuhadShiblu_box{
+    width: 500px;
+    height: 500px;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    background: #fff;
+    border-radius: 10px;
+}
+button{
+    width: 160px;
+    height: 160px;
+    background: #000;
+    color: #fff;
+    border-radius: 10px;
+    font-size: 50px;
+    font-weight: 900;
+}
